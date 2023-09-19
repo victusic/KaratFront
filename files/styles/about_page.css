@@ -1,0 +1,189 @@
+.aboutBA{
+	width: 75px;
+	left: 664px;
+	font-weight: 600;
+}
+
+.aboutLA{
+	width: 58px;
+	left: 672px;
+	display: block;
+}
+
+.aboutFA{
+	width: 85px;
+	left: 614px;
+	font-weight: 600;
+	position: absolute;
+	height: 29px;
+	top: 187px;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-size: 24px;
+	color: var(--white);
+	border: none;
+	background: transparent;
+}
+
+.about1{
+	width: 100%;
+	height: 945px;
+	background: var(--blue);
+	display: flex;
+	justify-content: center;
+}
+
+.about2{
+	width: 100%;
+	height: 1075px;
+	background: var(--gray);
+	display: flex;
+	justify-content: center;
+}
+
+.about3{
+	width: 100%;
+	height: 250px;
+	background: var(--white);
+	display: flex;
+	justify-content: center;
+}
+
+.about1GText{
+	position: absolute;
+	width: 193px;
+	height: 78px;
+	left: 0px;
+	top: 40px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 64px;
+	line-height: 78px;
+	color: var(--black);
+}
+
+.about1Text{
+	position: absolute;
+	width: 766px;
+	height: 700px;
+	left: 0px;
+	top: 180px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	color: var(--black);
+}
+
+.about2GText{
+	position: absolute;
+	width: 353px;
+	height: 49px;
+	left: 0px;
+	top: 80px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 49px;
+	color: var(--white);
+}
+
+.about2Text{
+	position: absolute;
+	width: 771px;
+	height: 812px;
+	left: 0px;
+	top: 170px;
+
+	font-family: 'Montserrat';
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 29px;
+	color: var(--white);
+}
+
+.img1{
+	position: absolute;
+	width: 420px;
+	height: 220px;
+	right: 0px;
+	top: 150px;
+}
+
+.img2{
+	position: absolute;
+	width: 420px;
+	height: 390px;
+	right: 0px;
+	top: 415px;
+}
+
+.img3{
+	position: absolute;
+	width: 420px;
+	height: 390px;
+	right: 0px;
+	top: 115px;
+}
+
+.img4{
+	position: absolute;
+	width: 420px;
+	height: 390px;
+	right: 0px;
+	top: 550px;
+}
+
+.img5{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	left: 0px;
+	top: 50px;
+}
+
+.img6{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	left: 230px;
+	top: 50px;
+}
+
+.img7{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	left: 460px;
+	top: 50px;
+}
+
+.img8{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	right: 460px;
+	top: 50px;
+}
+
+.img9{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	right: 230px;
+	top: 50px;
+}
+
+.img10{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	right: 0px;
+	top: 50px;
+}

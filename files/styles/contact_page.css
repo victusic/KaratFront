@@ -1,0 +1,119 @@
+.contactFA{
+	width: 140px;
+	right: -15px;
+	font-weight: 600;
+	position: absolute;
+	height: 29px;
+	top: 187px;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-size: 24px;
+	color: var(--white);
+	border: none;
+	background: transparent;
+}
+
+.playa{
+	position: relative;
+	width: 100%;
+	height: 770px;
+
+	background: var(--gray);
+	display: flex;
+	justify-content: center;
+}
+
+.contactName{
+	position: absolute;
+	width: 239px;
+	height: 49px;
+	left: 0px;
+	top: 160px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 49px;
+	color: var(--white);
+}
+
+.card{
+	position: absolute;
+	width: 600px;
+	height: 500px;
+	right: 0px;
+	top: 180px;
+}
+
+.location{
+	position: absolute;
+	width: 331px;
+	height: 24px;
+	left: 0px;
+	top: 236px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-size: 20px;
+	line-height: 24px;
+
+	color: var(--white);
+}
+
+.phone1{
+	position: absolute;
+	width: 310px;
+	height: 24px;
+	left: 0px;
+	top: 307px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-size: 20px;
+	line-height: 24px;
+	color: var(--white);
+}
+
+.phone2{
+	position: absolute;
+	width: 336px;
+	height: 24px;
+	left: 0px;
+	top: 348px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-size: 20px;
+	line-height: 24px;
+	color: var(--white);
+}
+
+.phone3{
+	position: absolute;
+	width: 316px;
+	height: 24px;
+	left: 0px;
+	top: 389px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-size: 20px;
+	line-height: 24px;
+	color: var(--white);
+}
+
+.mail{
+	position: absolute;
+	width: 196px;
+	height: 24px;
+	left: 0px;
+	top: 460px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-size: 20px;
+	line-height: 24px;
+
+	color: var(--white);
+}
